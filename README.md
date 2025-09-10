@@ -47,7 +47,7 @@ Download GTSRB dataset: https://benchmark.ini.rub.de/gtsrb_dataset.html
 Place it under Dataset/GTSRB_Org/Training/.
 
 
-3. GTSDB (Detection)
+2. GTSDB (Detection)
 
 Download GTSDB dataset: https://benchmark.ini.rub.de/gtsdb_dataset.html
 
